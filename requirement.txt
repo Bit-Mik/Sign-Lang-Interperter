@@ -1,0 +1,9 @@
+boto3
+opencv-python
+cvzone
+mediapipe 
+scikit-learn
+numpy
+pandas
+matplotlib
+urllib3
