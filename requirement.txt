@@ -1,9 +1,7 @@
-boto3
+Tenserflow
 opencv-python
 cvzone
 mediapipe 
-scikit-learn
 numpy
 pandas
 matplotlib
-urllib3
