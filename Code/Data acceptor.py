@@ -9,7 +9,7 @@ dect = HandDetector(maxHands=1)
 offset = 20
 imgSize = (300)
 
-folder = "E:\Programs\Python\HandSign Detector\DATA\A"
+folder = "..\HandSign Detector\DATA\A"
 counter = 0
 
 while True:
