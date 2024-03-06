@@ -7,7 +7,7 @@ import math
 cap = cv2.VideoCapture(0)
 dect = HandDetector(maxHands=1)
 #adding the path where the model and its label is saved
-classifier = Classifier("E:\Programs\Python\HandSign Detector\Model\keras_model.h5","E:\Programs\Python\HandSign Detector\Model\labels.txt")
+classifier = Classifier("..\HandSign Detector\Model\keras_model.h5","..\HandSign Detector\Model\labels.txt")
 
 offset = 20
 imgSize = (300)
